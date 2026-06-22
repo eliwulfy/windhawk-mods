@@ -15,7 +15,9 @@
 # Now Playing — Taskbar Widget
 
 A premium music widget for the Windows 11 taskbar. Displays your currently playing track with album art, an animated dual-color Chameleon background, media controls, progress bar scrubbing, and smooth transitions — all rendered natively and efficiently with Direct2D.
+
 ![Preview](https://i.imgur.com/FIzoTrq.jpeg)
+
 ## Features
 - 🎨 **Dual Chameleon Background** — extracts the dominant colors from the album art to create a glowing, animated gradient.
 - 📊 **Chameleon Progress Bar** — a sleek, floating progress bar that adapts its gradient to your album colors, featuring click-to-scrub support and a dynamic hover indicator.
